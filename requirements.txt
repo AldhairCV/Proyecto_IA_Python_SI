@@ -1,0 +1,7 @@
+streamlit
+pandas
+scikit-learn
+joblib
+firebase-admin
+google-cloud-firestore
+google-generativeai

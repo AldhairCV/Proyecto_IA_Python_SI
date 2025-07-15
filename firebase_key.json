@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "py-apoyoemocional",
+  "private_key_id": "5973e07774ffa41e1803c543f1288c1a4e3145cb",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC5HaChmvbfCFTZ\nth27sgUoyaVOw474DNsYrkeWngXxiZTEIQDj5zvCw3z7s4Qw++PbixVUxjHrqMpz\n1hC0nrBXqFYn7s8CZqFv/kH77D2tjpzX0MBrSbdok8LHL2FdyhdnT249vweuOGRg\nMfEXWW607qWOFU+sfP1ZPe2se9u920ApCbUJ5xoj+BarnEY4ZXF3vgaW8r33qjlI\nsv/PDbWXXmrrLm1hU3XZ0nFknSmPmYsSzwQ+jRSJx1u0h6G0cS0hwWQ7Jrzz0T3K\n7qPRrf5rwtgHdfti7BGfBxwtTea58dKZT2LeWNMn53UCsQyeta8ZAAFXi5CJvV2M\nn5ZsQQtxAgMBAAECggEAHVYWqMW4LexSFhaIa8BwlOAv9GWFeMYAys6DxdjRNFAL\nZXGdhICWtezpF7KBVon0uEw4WzD1pFUhkG3yQ82KQLoKvVVZNRYyq17t8hCkTab2\nMDWC6P3LtSUFjy9xDL4EK3kpDVwCyZdiQORpQrwHkWDol7XE5J8CP2xTCCywzEt3\neIBYnYxyOcQwvuImTYS7ON6eus0752LdqTpmS7MHUHsF3VMfjvuyuM/I+05m6sMm\nNqGAgN6UMExd7pxPPgctzmvlmsQAKH0ndCzbW9UUQF8ix46d0WcOw+2ZSPLF9ZbF\nHbrhH6I8/RgK4Be64sc9BEYd3Lp6IWcsF32smF7PKQKBgQDvDC6aytxxm7F6J5ns\n8glqYYvaPSURuxHfhgADbnsUL+lsx/y+ufJhaoKJF00oXnFCxuz0xEiaUSv7NqUg\nuqE2lIei5uMYKin//rzm0yUUAP0bnoGJn6Xyb5gzHKV70cgWEg8ZpSbUKOde60Ht\nRathM9HpGWKmIaYIUxisY9Z7wwKBgQDGPlVIV3eDD69OTc8/ZutdkE8SPNFNq2Vm\nn/F1AT+wDra/II6V5288QRu09PAdwXLLrb6vu8G3IXkPePL5AYqnyOHoNVC75WAO\nyOI7xP6JXVRS/uHf8QAEZIRsYQ9gfwsno3+cnxuyzJffd4xuHLKPePHmSLN3/a0C\n7nQIASKMuwKBgATWLEM5g4hQ7CBamMSwiPw8CQZbYlqffFcXcPygyaC473IiAb0i\nKgNKkmWPsSH19ziwqa6yIf3tUoR8sI6e+BAQpUXoggPFJqBlWREaiI+FDZn3dQuB\nzWvAUkYGeFqu/etkZiXQr55vTW8gN29Dj5oh4EdlGhfeamuUstUaGAbdAoGABkFp\nR4MbDlOsYHgsFgAVZTpshFLO9/h0lqxtXhfP/qo4MgfA+BH5fJlBWpBwE0BLcwnk\nfn8aOcEgpNBYOmtGCM1Z843bIlK2mUDVgrVQot0DECtizUI5kenqE9FsPstDeti5\n6iNLKHU0RaTsFX1qVQSn/XBF2X9zuif0GVyPzokCgYEAvvYtnBUpataDUCTd1ikr\njshehdl+CmigJkdHAbP5/gFngX3MfnBmHD6nDq7/SE1MTtbqfzZRIwLPzGl0agPb\nMxZkweGr8qdr5Df4gBHS6qhZVBfeZAJHI3LuR3EO3a5L1a2BO28uMBsDviaQj+9T\nY0ohtuFXQ7RTCQKptwu4cRA=\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-fbsvc@py-apoyoemocional.iam.gserviceaccount.com",
+  "client_id": "109544658596690335784",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-fbsvc%40py-apoyoemocional.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
